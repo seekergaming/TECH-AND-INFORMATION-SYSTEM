@@ -68,6 +68,14 @@ Assignment 6 : Industry talk (Credence)
 
 In this talk, we were briefed about system development life cycle, also known as SDLC is a process that specifically used for an IT projects. This process includes seven phases which are planning, analysis, design and prototyping, software development, software testing, implementation and maintenance.
 
+<p align="center">
+Credence : <br/><br />
+<img src="blob:https://imgur.com/3a88b490-9a05-4cb9-8f7e-7eb6a5d326ae" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+
+
+
 
 
 
