@@ -29,7 +29,7 @@ PPG Talk: <br/><br />
 
 Assignment 3: PC Assembly
 
-In this assignment, we learned to assemble and dissasemble PC component starting from their CPU case, processor, RAM and cable.
+In this assignment, we learned to assemble and dissasemble PC component starting from their CPU case, processor, processor's fan, RAM and cable.
 
 <p align="center">
 PC Assembly: <br/><br />
