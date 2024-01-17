@@ -58,6 +58,12 @@ Assignment 5 : Design Thinking Project
 
 In this project, we learn the actual concept of interaction between developers and users that approached the skills of emphatize, define, ideate, prototype and testing in order to design our own product that fulfill our clients need.
 
+<p align="center">
+Design Thinking : <br/><br />
+<img src="https://i.imgur.com/CbnMqO2.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+
 Assignment 6 : Industry talk (Credence)
 
 In this talk, we were briefed about system development life cycle, also known as SDLC is a process that specifically used for an IT projects. This process includes seven phases which are planning, analysis, design and prototyping, software development, software testing, implementation and maintenance.
