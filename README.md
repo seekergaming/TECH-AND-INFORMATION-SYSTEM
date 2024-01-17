@@ -6,7 +6,7 @@ referred to as career development. We also learned an insight about our third an
 
 <p align="center">
 Habib Talk: <br/><br />
-<img src="[https://i.imgur.com/sheysTI.jpg](https://i.imgur.com/X2A07Ut.jpg)" height="30%" width="70%" alt="Habib"/>
+<img src="https://i.imgur.com/X2A07Ut.jpg" height="30%" width="70%" alt="Habib"/>
 <br />
 <br />
 
