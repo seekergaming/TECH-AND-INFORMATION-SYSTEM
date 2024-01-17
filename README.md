@@ -36,6 +36,23 @@ Assignment 4 : Industry Visit Huawei and Petronas
 
 On petronas, We were then briefed by both the head of Software Engineer, Roman Kvaska and his  fellow workmate Ninderjit Singh. We gained a lot in terms of job hunting skills during our adulthood, what to-do and not do to get our desired jobs and most importantly our consistency and passion towards the job that we have been focusing on. While on Huawei, we get opportunity to see their electric car chargers, a testament to their commitment to sustainable technology. Additionally, we were shown their solar panels technology,  and also their future renewable energy sources technology. Huawei is also known as an independent company that has its own operating system, HarmonyOS (HMOS) that was launched in August 2019. They also own their own cloud computing which is Huawei Cloud.
 
+<p align="center">
+Petronas : <br/><br />
+<img src="https://i.imgur.com/xI07URM.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+
+<br/><br />
+<img src="https://i.imgur.com/0KWVzxM.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+  
+<p align="center">
+Huawei : <br/><br />
+<img src="https://i.imgur.com/nd91JDT.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+
 Assignment 5 : Design Thinking Project
 
 In this project, we learn the actual concept of interaction between developers and users that approached the skills of emphatize, define, ideate, prototype and testing in order to design our own product that fulfill our clients need.
