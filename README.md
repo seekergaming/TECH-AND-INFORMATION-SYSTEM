@@ -21,6 +21,12 @@ Assignment 2 : UTMDigital Industry Visit
 
 We were toured on the facilities of UTMDigital such as their open office, TM room, UTMDigitalCare and also their Data Centre that contained lots of servers. We get to know the working environment of UTMDigital's Employee that is flexible and more less stress free environment.
 
+<p align="center">
+PPG Talk: <br/><br />
+<img src="https://i.imgur.com/32R505L.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+
 Assignment 3: PC Assembly
 
 In this assignment, we learned to assemble and dissasemble PC component starting from their CPU case, processor, RAM and cable.
