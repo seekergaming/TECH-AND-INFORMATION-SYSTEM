@@ -9,6 +9,12 @@ Habib Talk: <br/><br />
 <img src="https://i.imgur.com/X2A07Ut.jpg" height="30%" width="70%" alt="Habib"/>
 <br />
 <br />
+  
+<p align="center">
+PPG Talk: <br/><br />
+<img src="https://i.imgur.com/T9IAXwk.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
 
 
 Assignment 2 : UTMDigital Industry Visit
