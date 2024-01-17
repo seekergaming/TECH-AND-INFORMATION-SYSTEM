@@ -70,7 +70,7 @@ In this talk, we were briefed about system development life cycle, also known as
 
 <p align="center">
 Credence : <br/><br />
-<img src="blob:https://imgur.com/3a88b490-9a05-4cb9-8f7e-7eb6a5d326ae" height="30%" width="70%" alt="Habib"/>
+<img src="https://i.imgur.com/micF7PY.jpg" height="30%" width="70%" alt="Habib"/>
 <br />
 <br />
 
