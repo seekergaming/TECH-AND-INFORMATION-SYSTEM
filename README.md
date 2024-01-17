@@ -42,6 +42,7 @@ Petronas : <br/><br />
 <br />
 <br />
 
+<p align="center">
 <br/><br />
 <img src="https://i.imgur.com/0KWVzxM.jpg" height="30%" width="70%" alt="Habib"/>
 <br />
