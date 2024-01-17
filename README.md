@@ -25,6 +25,13 @@ Assignment 3: PC Assembly
 
 In this assignment, we learned to assemble and dissasemble PC component starting from their CPU case, processor, RAM and cable.
 
+<p align="center">
+PC Assembly: <br/><br />
+<img src="https://i.imgur.com/NMZ7D0a.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+
+
 Assignment 4 : Industry Visit Huawei and Petronas
 
 On petronas, We were then briefed by both the head of Software Engineer, Roman Kvaska and his  fellow workmate Ninderjit Singh. We gained a lot in terms of job hunting skills during our adulthood, what to-do and not do to get our desired jobs and most importantly our consistency and passion towards the job that we have been focusing on. While on Huawei, we get opportunity to see their electric car chargers, a testament to their commitment to sustainable technology. Additionally, we were shown their solar panels technology,  and also their future renewable energy sources technology. Huawei is also known as an independent company that has its own operating system, HarmonyOS (HMOS) that was launched in August 2019. They also own their own cloud computing which is Huawei Cloud.
