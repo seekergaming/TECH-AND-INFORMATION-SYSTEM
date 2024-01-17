@@ -4,6 +4,13 @@ We were briefed by both the PPG and HAbib on Career Development which is the pro
 referred to as career development. We also learned an insight about our third and second year from the talk of our senior while also gained the knowledge to build resume and portfolio.
 
 
+<p align="center">
+Habib Talk: <br/><br />
+<img src="https://i.imgur.com/sheysTI.jpg" height="30%" width="70%" alt="Habib"/>
+<br />
+<br />
+
+
 Assignment 2 : UTMDigital Industry Visit
 
 We were toured on the facilities of UTMDigital such as their open office, TM room, UTMDigitalCare and also their Data Centre that contained lots of servers. We get to know the working environment of UTMDigital's Employee that is flexible and more less stress free environment.
